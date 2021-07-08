@@ -1,0 +1,4 @@
+com\TechMachindra\Amazon\Runners\productSearchRunner.class
+com\TechMachindra\Amazon\Pages\HomePage.class
+com\TechMachindra\Amazon\Steps\productSearchesSteps.class
+com\TechMachindra\Amazon\StepsDefinition\productSearchesStepDefinitions.class
